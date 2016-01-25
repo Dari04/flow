@@ -1,0 +1,29 @@
+div{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+
+}
+body{
+	margin:10px;
+	padding:0px;
+}
+.yellow{
+	background-color:#FFFF00;
+
+}
+.red{
+	background-color:#ED2251;
+	position:relative;
+
+}
+.blue{
+	background-color: #3A81BA;
+	position:absolute;
+	margin-left:200px;
+
+}
+.green{
+	background-color: #8BAB42;
+	position:relative;
+}

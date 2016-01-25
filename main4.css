@@ -1,0 +1,25 @@
+div{
+	height: 200px;
+	width: 200px;
+
+}
+body{
+	margin:10px;
+	padding:0px;
+
+}
+.red{
+	background-color:#ED2251;
+	position:relative;
+
+}
+.blue{
+	background-color: #3A81BA;
+	position:relative;
+	margin-left:200px;
+
+}
+.green{
+	background-color: #8BAB42;
+	position:relative;
+}
